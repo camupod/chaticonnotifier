@@ -8,7 +8,7 @@ This very simple extension simply flashes the Gmail™ tab icon when you get a n
 
 (The MIT License)
 
-Copyright 2012 Cameron Lakenen
+Copyright 2013 Cameron Lakenen
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
